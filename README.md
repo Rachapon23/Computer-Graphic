@@ -1,7 +1,7 @@
 # Computer-Graphic
 Computer Graphic with Open-GL version 1.1
 
-Delfault source code from instructor of Computer Graphic
+Default source code come from instructor of Computer Graphic
 
 This project made by modified some code in default source code
 
