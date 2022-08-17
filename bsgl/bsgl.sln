@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bsgl", "bsgl.vcxproj", "{501DF570-0E65-4F4D-89B6-37DB467E8EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501DF570-0E65-4F4D-89B6-37DB467E8EBC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{501DF570-0E65-4F4D-89B6-37DB467E8EBC}.Debug|Win32.Build.0 = Debug|Win32
+		{501DF570-0E65-4F4D-89B6-37DB467E8EBC}.Release|Win32.ActiveCfg = Release|Win32
+		{501DF570-0E65-4F4D-89B6-37DB467E8EBC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
